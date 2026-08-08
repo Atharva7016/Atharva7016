@@ -1,10 +1,5 @@
 # Hi, I'm Atharva Patil 👋
 
-Motivated Computer Engineering fresher focused on **React.js** and **MERN Stack** development.
-
-📍 Thane, India  
----
-
 ## 💫 About Me
 
 - 🚀 Building real-world **MERN Stack** projects with a strong focus on **Frontend development (React.js)**, while also having hands-on experience with **Node.js, Express, and MongoDB** to understand complete application flow.
