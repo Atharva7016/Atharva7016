@@ -61,13 +61,5 @@ Full-stack MERN food delivery app with customer storefront, admin panel, cart, S
 
 ---
 
-## 📈 GitHub Stats
-
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva7016&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva7016&layout=compact&theme=radical)
-
----
-
 Thanks for visiting my profile! ⭐
 
