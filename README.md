@@ -3,8 +3,6 @@
 Motivated Computer Engineering fresher focused on **React.js** and **MERN Stack** development.
 
 📍 Thane, India  
-🔗 [GitHub](https://github.com/Atharva7016) · [FOOD-DEL Project](https://github.com/Atharva7016/FOOD-DEL)
-
 ---
 
 ## 💫 About Me
